@@ -12,5 +12,10 @@
   },
   "upload_source_maps": true,
   "workers_dev": false,
-  "routes": ["blog.nazate.us.kg/*"]
+  "routes": [
+    {
+      "pattern": "blog.nazate.us.kg/*",
+      "zone_id": "e52c9c31b90b67a2d1c8fbd66b2701f8"
+    }
+  ]
 }
