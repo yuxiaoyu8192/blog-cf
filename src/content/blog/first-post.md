@@ -11,4 +11,7 @@ heroImage: "/blog-placeholder-3.jpg"
 
 内联了一个尊贵的图片！！！！
 
-![文件夹](/public/blog-photo/first-post/image.png)
+![文件夹](/blog-photo/first-post/image.png)
+
+
+这个文章排序还是没搞懂太tm抽象了
