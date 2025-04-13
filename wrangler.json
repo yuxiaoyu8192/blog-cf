@@ -10,5 +10,7 @@
   "observability": {
     "enabled": true
   },
-  "upload_source_maps": true
+  "upload_source_maps": true,
+  "workers_dev": false,
+  "routes": ["blog.nazate.us.kg/*"]
 }
